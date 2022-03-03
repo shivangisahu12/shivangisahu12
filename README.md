@@ -1,11 +1,6 @@
-
 <h1 align="center">Hi there 👋,I'm Shivangi Sahu</h1>
-
 <img align="center" alt="coding" src="https://i.imgur.com/iXuL1HG.png">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivangisahu12&label=Profile%20views&color=0e75b6&style=flat" alt="shivangisahu12" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivangisahu12" alt="shivangisahu12" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shivang88312126" target="blank"><img src="https://img.shields.io/twitter/follow/shivang88312126?logo=twitter&style=for-the-badge" alt="shivang88312126" /></a> </p>
 <img align="right" alt="Coding"  width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -13,6 +8,7 @@
 
 
 - 🧑‍🎓 Persuing B.Tech In Computer Science Engineering From *[ITER, S.O.A.U](https://www.soa.ac.in/iter)*
+
 - 📫 How to reach me **shivangi.sahu9876@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -34,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivangisahu12&show_icons=true&locale=en" alt="shivangisahu12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivangisahu12&" alt="shivangisahu12" /></p>
+
